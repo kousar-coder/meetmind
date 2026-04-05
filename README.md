@@ -5,6 +5,12 @@
 **MeetMind** is an AI-powered meeting assistant that records, transcribes, and intelligently summarizes meetings into actionable outputs using state-of-the-art language and speech models.
 
 ---
+<img width="1916" height="892" alt="1" src="https://github.com/user-attachments/assets/ff475520-7f4f-448a-9f99-6263678ff0b5" />
+<img width="1912" height="921" alt="2" src="https://github.com/user-attachments/assets/ade43ce1-c368-462b-8cab-a2b76612dafd" />
+<img width="1918" height="902" alt="3" src="https://github.com/user-attachments/assets/0e14770d-6de0-4a16-84b4-8c79a19df6e4" />
+<img width="1917" height="862" alt="4" src="https://github.com/user-attachments/assets/515c7307-7c6a-4b08-bc37-a5b72284db5f" />
+<img width="1907" height="857" alt="5" src="https://github.com/user-attachments/assets/0ee229f4-bbdf-4193-a384-35834f501f85" />
+<img width="1912" height="865" alt="6" src="https://github.com/user-attachments/assets/d0d35f86-6486-44f4-850d-a50043aa62c3" />
 
 ##  Features
 
