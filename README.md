@@ -1,5 +1,3 @@
----
-
 #  MeetMind — AI Meeting Summarizer
 
 > Transform conversations into structured insights — instantly.
