@@ -320,23 +320,23 @@ SCOPES = ["https://www.googleapis.com/auth/documents"]
 
 TEMPLATES = {
     "General Meeting": {
-        "icon": "💬",
+        "icon": "",
         "prompt": "Extract: 1) Key discussion points 2) Decisions made 3) Action items with owners. Be structured and concise."
     },
     "Daily Standup": {
-        "icon": "⚡",
+        "icon": "",
         "prompt": "Extract for each speaker if possible: 1) What they did yesterday 2) What they're doing today 3) Any blockers. Keep it very brief."
     },
     "Client Call": {
-        "icon": "🤝",
+        "icon": "",
         "prompt": "Extract: 1) Client requirements mentioned 2) Commitments made by our team 3) Next steps and deadlines 4) Any concerns raised. Professional tone."
     },
     "Brainstorm": {
-        "icon": "🧠",
+        "icon": "",
         "prompt": "Extract: 1) Ideas generated (list all) 2) Ideas selected for action 3) Ideas parked for later 4) Next steps. Capture every idea mentioned."
     },
     "1:1 Meeting": {
-        "icon": "👥",
+        "icon": "",
         "prompt": "Extract: 1) Topics discussed 2) Feedback given or received 3) Goals set or reviewed 4) Action items. Keep sensitive context professional."
     }
 }
@@ -560,10 +560,10 @@ with st.sidebar:
     st.markdown('<div style="height:1px; background:#1e1e1e; margin:1.2rem 0;"></div>', unsafe_allow_html=True)
     st.markdown(f"""
     <div style="font-size:11px; color:#334155; line-height:2;">
-        <div>🎙️ Groq Whisper</div>
-        <div>🧠 Llama 3.3 70B</div>
-        <div>📄 Google Docs</div>
-        <div>⚡ Free API</div>
+        <div> Groq Whisper</div>
+        <div> Llama 3.3 70B</div>
+        <div> Google Docs</div>
+        <div> Free API</div>
     </div>
     """, unsafe_allow_html=True)
 
